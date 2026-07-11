@@ -63,7 +63,9 @@ Our project successfully demonstrates a full-loop BCI solution (via simulation) 
 
 ---
 
-## Special Credits and Huge Thanks to these Github Repos:
+## Special Credits and Huge Thanks to these amazing people:
 **NDS:** https://github.com/agencyenterprise/neural-data-simulator/
 
-**liblsl-Matlab:**: https://github.com/labstreaminglayer/liblsl-Matlab/
+**liblsl-Matlab:** https://github.com/labstreaminglayer/liblsl-Matlab/
+
+**Prosthetic Hand Design:** https://inmoov.fr/
